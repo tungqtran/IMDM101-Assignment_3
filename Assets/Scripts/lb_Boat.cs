@@ -16,7 +16,6 @@ public class lb_Boat : MonoBehaviour
         {
             anim.SetBool("driving", true);
         }
-        transform.rotation = Quaternion.Euler(0, 90, 0);
     }
 
     void Update()
