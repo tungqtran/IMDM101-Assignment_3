@@ -20,11 +20,14 @@ public class lb_Boat : MonoBehaviour
 
     void Update()
     {
-        transform.Translate(-transform.right * driveSpeed * Time.deltaTime);
+        float moveInput = Input.GetAxis("Vertical");
+        float turnInput = Input.GetAxis("Horizontal");
+
+        transform.Translate(-transform.right * moveInput * driveSpeed * Time.deltaTime);
 
         if (turning)
         {
-            transform.Rotate(Vector3.up * turnSpeed * Time.deltaTime);
+            transform.Rotate(Vector3.up * turnInput * turnSpeed * Time.deltaTime);
         }
     }
 }

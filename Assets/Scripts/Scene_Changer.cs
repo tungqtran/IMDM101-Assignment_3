@@ -4,8 +4,8 @@ using UnityEngine.SceneManagement;
 
 public class Scene_Changer : MonoBehaviour
 {
-    public float delay = 10f;
-    public string NewLevel= "S3 - Shore";
+    public float delay = 100f;
+    public string NewLevel= "S2 - Underwater";
     void Start()
     {
         StartCoroutine(LoadLevelAfterDelay(delay));
