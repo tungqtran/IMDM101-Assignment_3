@@ -1,0 +1,11 @@
+Tung Tran
+Sienna Rader-Gowda
+
+This is a prototype of what could be our final project: The Shipwreck
+We simulated the story of a ship wreck.
+Our first scene begins with an overview of a passenger on a generic ship, swallowed by a wave.
+The second scene shows our unconscious passenger underwater, as fish swim by. Finally, the third scene shifts into a view of an island where the passanger is shipwrecked and cast away.
+
+We were motivated by famous movies involving ship wrecks, including the Titatic and other story lines involving dangerous ocean scenes.
+
+![screenshot](display.png)
