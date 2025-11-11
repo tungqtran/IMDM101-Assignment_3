@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 284830dd46ce77c4696ef63853c7cf5e
+guid: 0982336231d4218459d2001ee76293b3
 NativeFormatImporter:
   externalObjects: {}
   mainObjectFileID: 0
@@ -11,5 +11,5 @@ AssetOrigin:
   productId: 202232
   packageName: Fish - PolyPack
   packageVersion: 1.0
-  assetPath: Assets/Alstra Infinite/Boats LowPoly/Materials/Main.mat
+  assetPath: Assets/Alstra Infinite/Boats LowPoly/Scene/ShowcaseFloor.mat
   uploadId: 450755

@@ -1,8 +1,7 @@
 fileFormatVersion: 2
-guid: 284830dd46ce77c4696ef63853c7cf5e
-NativeFormatImporter:
+guid: 2fb93ff3c1250a74ca5f53a6bc162675
+PrefabImporter:
   externalObjects: {}
-  mainObjectFileID: 0
   userData: 
   assetBundleName: 
   assetBundleVariant: 
@@ -11,5 +10,5 @@ AssetOrigin:
   productId: 202232
   packageName: Fish - PolyPack
   packageVersion: 1.0
-  assetPath: Assets/Alstra Infinite/Boats LowPoly/Materials/Main.mat
+  assetPath: Assets/Alstra Infinite/Boats LowPoly/Prefabs/SharkV1.prefab
   uploadId: 450755
