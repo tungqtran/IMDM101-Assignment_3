@@ -8,4 +8,4 @@ The second scene shows our unconscious passenger underwater, as fish swim by. Fi
 
 We were motivated by famous movies involving ship wrecks, including the Titatic and other story lines involving dangerous ocean scenes.
 
-![screenshot](Screenshot 2025-11-11 072704.png)
+![screenshot](display.png)
