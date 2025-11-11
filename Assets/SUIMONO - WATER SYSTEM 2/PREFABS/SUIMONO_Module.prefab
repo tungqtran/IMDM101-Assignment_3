@@ -227,8 +227,8 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 4439848725823904773}
   serializedVersion: 2
-  m_LocalRotation: {x: -0.009527387, y: 0.97913325, z: -0.19741982, w: -0.04725249}
-  m_LocalPosition: {x: 246.52, y: 14.04, z: 233.87}
+  m_LocalRotation: {x: 0.64278686, y: 0.0009999991, z: 0.000999999, w: 0.7660438}
+  m_LocalPosition: {x: 162.84615, y: 199.99998, z: 25.688877}
   m_LocalScale: {x: 1.0001969, y: 1.1419997, z: 1.1418117}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -267,14 +267,14 @@ Camera:
     height: 1
   near clip plane: 1
   far clip plane: 300
-  field of view: 50
+  field of view: 60
   orthographic: 0
   orthographic size: 100
   m_Depth: 0
   m_CullingMask:
     serializedVersion: 2
     m_Bits: 268376319
-  m_RenderingPath: 1
+  m_RenderingPath: -1
   m_TargetTexture: {fileID: 0}
   m_TargetDisplay: 0
   m_TargetEye: 3
@@ -5126,8 +5126,8 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 4439848726342048543}
   serializedVersion: 2
-  m_LocalRotation: {x: -0.009527387, y: 0.97913325, z: -0.19741982, w: -0.04725249}
-  m_LocalPosition: {x: 246.52, y: 14.04, z: 233.87}
+  m_LocalRotation: {x: 0.64278686, y: 0.0009999991, z: 0.000999999, w: 0.7660438}
+  m_LocalPosition: {x: 162.84615, y: 199.99998, z: 25.688877}
   m_LocalScale: {x: 1.0001979, y: 1.142, z: 1.141813}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -5166,7 +5166,7 @@ Camera:
     height: 1
   near clip plane: 1
   far clip plane: 1000
-  field of view: 50
+  field of view: 60
   orthographic: 0
   orthographic size: 100
   m_Depth: 1
@@ -5238,8 +5238,8 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 4439848726611166309}
   serializedVersion: 2
-  m_LocalRotation: {x: -0.009527387, y: 0.97913325, z: -0.19741982, w: -0.04725249}
-  m_LocalPosition: {x: 246.52, y: 14.04, z: 233.87}
+  m_LocalRotation: {x: 0.64278686, y: 0.0009999991, z: 0.000999999, w: 0.7660438}
+  m_LocalPosition: {x: 162.84615, y: 199.99998, z: 25.688877}
   m_LocalScale: {x: 1.0001984, y: 1.1420001, z: 1.1418136}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -5278,7 +5278,7 @@ Camera:
     height: 1
   near clip plane: 1
   far clip plane: 100
-  field of view: 50
+  field of view: 60
   orthographic: 0
   orthographic size: 100
   m_Depth: 1
@@ -5381,8 +5381,8 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 4439848726798389770}
   serializedVersion: 2
-  m_LocalRotation: {x: -0.009527387, y: 0.97913325, z: -0.19741982, w: -0.04725249}
-  m_LocalPosition: {x: 246.52, y: 14.04, z: 233.87}
+  m_LocalRotation: {x: 0.64278686, y: 0.0009999991, z: 0.000999999, w: 0.7660438}
+  m_LocalPosition: {x: 162.84615, y: 199.99998, z: 25.688877}
   m_LocalScale: {x: 1.0001979, y: 1.142, z: 1.141813}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -5421,7 +5421,7 @@ Camera:
     height: 1
   near clip plane: 1
   far clip plane: 100
-  field of view: 50
+  field of view: 60
   orthographic: 0
   orthographic size: 100
   m_Depth: 1
@@ -5523,7 +5523,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   suimonoVersionNumber: 2.1.14
-  systemTime: 0.02
+  systemTime: 0.35333335
   autoSetLayers: 1
   layerWater: Suimono_Water
   layerWaterNum: 8
@@ -5578,8 +5578,8 @@ MonoBehaviour:
   defaultSplashSound: []
   transitionStrength: 1
   currentObjectIsOver: 0
-  currentObjectDepth: -15.04
-  currentTransitionDepth: -15.04
+  currentObjectDepth: -201
+  currentTransitionDepth: -201
   currentSurfaceLevel: -1
   underwaterThreshold: 0.1
   suimonoObject: {fileID: 0}
@@ -5595,13 +5595,13 @@ MonoBehaviour:
   - -1
   - -1
   - -1
-  - -15.04
+  - -201
   - 0
   - 0
   - 0
   - 0
   - 0
-  - -15.04
+  - -201
   - 0
   - 0
   isForward: 0
@@ -5789,8 +5789,8 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 4439848727305498169}
   serializedVersion: 2
-  m_LocalRotation: {x: -0.009527387, y: 0.97913325, z: -0.19741982, w: -0.04725249}
-  m_LocalPosition: {x: 246.52, y: 14.04, z: 233.87}
+  m_LocalRotation: {x: 0.64278686, y: 0.0009999991, z: 0.000999999, w: 0.7660438}
+  m_LocalPosition: {x: 162.84615, y: 199.99998, z: 25.688877}
   m_LocalScale: {x: 1.0001974, y: 1.1419998, z: 1.1418124}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -5829,7 +5829,7 @@ Camera:
     height: 1
   near clip plane: 1
   far clip plane: 300
-  field of view: 50
+  field of view: 60
   orthographic: 0
   orthographic size: 100
   m_Depth: 1
@@ -5901,7 +5901,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   isUnderwater: 0
-  causticLight: {fileID: 4439848725764639144}
+  causticLight: {fileID: 0}
   causticType: 1
 --- !u!1 &4439848727338105482
 GameObject:
